@@ -1,0 +1,9 @@
+name="Shayan"
+age=21
+sgpa=8.4
+age2=age
+print(type(name))
+print(type(age))
+print(type(sgpa))
+print(age)
+print(age2)
