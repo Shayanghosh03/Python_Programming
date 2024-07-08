@@ -1,0 +1,5 @@
+tup=["c","b","a","g","y","b","a","b"]
+tup.sort()
+print(tup)
+
+print(type(tup))
